@@ -1,2 +1,18 @@
-# Color-Picker
-A simple React-based Color Picker application that demonstrates state management with hooks. Users can select a color using a controlled input, and the background updates in real time based on the selected value. Built with React and JSX, using a lightweight CDN + Babel setup for learning and practice purposes.
+# Color Picker
+
+A simple color picker application built with React that allows users to select and preview colors dynamically. The app updates the displayed color in real time based on user input.
+
+## Features
+- Select and preview colors dynamically
+- Real-time UI updates
+- Clean and minimal interface
+- Responsive layout
+
+## Tech Stack
+- React
+- JSX
+- HTML
+- CSS
+
+## Purpose
+Built as a practice project to reinforce React fundamentals such as component structure, state management, and dynamic rendering.
